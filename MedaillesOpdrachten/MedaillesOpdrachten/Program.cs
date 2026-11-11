@@ -41,8 +41,7 @@ namespace MedaillesOpdrachten
                 {
                     if (choice == "A")
                     {
-                        Console.Clear();
-                        Console.WriteLine("20:00. \nje blijft doomscrollen en zet je volume op max" +
+                        Console.WriteLine("\n20:00. \nje blijft doomscrollen en zet je volume op max" +
                             "\n20:30. er gaat een half uur voorbij en het lijkt erop dat de indringer afgeschrikt is door je tiktok" +
                             "\n\nGewonnen!\n\nWil je nog een keer proberen? y/n");
                         choice = Console.ReadLine();
@@ -60,8 +59,7 @@ namespace MedaillesOpdrachten
                     }
                     else if (choice == "B")
                     {
-                        Console.Clear();
-                        Console.WriteLine("20:00. \nje verstopt je in de kledingkast." +
+                        Console.WriteLine("\n20:00. \nje verstopt je in de kledingkast." +
                             "\nJe hoort voetstappen luider worden en ziet door de deurspleet een wazige gedaante je kamer binnenkomen. " +
                             "\nWat doe je?\nA - Blijf verstopt in je kast\nB - Kom uit de kast en ren zo snel je kan weg" +
                             "\nB - Probeer het mysterieuze figuur aan te vallen als hij niet oplet");
@@ -70,19 +68,17 @@ namespace MedaillesOpdrachten
                         {
                             if (choice == "A")
                             {
-                                Console.Clear();
                                 Console.WriteLine("");
                                 choice = Console.ReadLine();
                                 
                             }
                             else if (choice == "B")
                             {
-                                Console.Clear();
                                 Console.WriteLine("");
                             }
                             else if (choice == "C")
                             {
-                                Console.Clear();
+
                                 Console.WriteLine("C");
                             }
                         }
