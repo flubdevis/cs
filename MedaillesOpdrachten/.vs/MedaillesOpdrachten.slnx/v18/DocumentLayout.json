@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\school\\c#\\MedaillesOpdrachten\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|c:\\school\\c#\\medaillesopdrachten\\medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "MedaillesOpdrachten\\Program.cs",
               "ToolTip": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Program.cs",
               "RelativeToolTip": "MedaillesOpdrachten\\Program.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T11:44:31.394Z",
               "EditorCaption": ""
