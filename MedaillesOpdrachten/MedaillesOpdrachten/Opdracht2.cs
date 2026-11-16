@@ -51,8 +51,7 @@ namespace MedaillesOpdrachten
                 {
                     case "Y":
                         Console.Clear();
-                        Opdracht2 opdracht2 = new Opdracht2();
-                        opdracht2.Start();
+                        Start();
                         break;
                     case "N":
                         Console.Clear();
@@ -355,8 +354,7 @@ namespace MedaillesOpdrachten
                     {
                         case "Y":
                             Console.Clear();
-                            Opdracht2 opdracht2 = new Opdracht2();
-                            opdracht2.Start();
+                            Start();
                             break;
                         case "N":
                             Console.Clear();

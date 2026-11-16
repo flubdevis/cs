@@ -27,7 +27,7 @@ namespace MedaillesOpdrachten
                 }
                 else if (j >= 65)
                 {
-                  Console.WriteLine("je bent " + j + " jaar oud! Je bent oud genoeg om te stemmen en je bent bejaard");
+                  Console.WriteLine("u bent " + j + " jaar oud. Zo, dat is oud! U bent oud genoeg om te stemmen en je bent bejaard");
                 }
                 else
                 {
