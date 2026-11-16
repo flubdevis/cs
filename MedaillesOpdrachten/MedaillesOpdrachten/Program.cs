@@ -12,7 +12,8 @@ namespace MedaillesOpdrachten
         {
             Console.WriteLine("\nHoi! welke opdracht wil je starten?\n\n" +
                 "1 - Opdracht 1\n" +
-                "2 - Opdracht 2\n");
+                "2 - Opdracht 2\n" +
+                "3 - Opdracht 3");
             string opdracht = Console.ReadLine();
 
             switch (opdracht)
@@ -27,6 +28,12 @@ namespace MedaillesOpdrachten
                     Opdracht2 opdracht2 = new Opdracht2();
                     Console.Clear();
                     opdracht2.Start();
+                    break;
+
+                case "3":
+                    Opdracht3 opdracht3 = new Opdracht3();
+                    Console.Clear();
+                    opdracht3.Start();
                     break;
 
                 default:
