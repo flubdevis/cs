@@ -8,31 +8,17 @@ namespace MedaillesOpdrachten
 {
     internal class Opdracht4
     {
+        int age;
+        int year;
         public void Start()
         {
             Console.WriteLine("Wat is je geboortejaar?");
             string temp = Console.ReadLine();
-            int i;
-            if (Int32.TryParse(temp, out i))
+            if (Int32.TryParse(temp, out year))
             {
-                int j = 2026 - i;
+                age = 2026 - year;
+                checkAge();
                 
-                if (j >= 18 && j < 22)
-                {
-                  Console.WriteLine("je bent " + j + " jaar oud! Je bent oud genoeg om te stemmen.");
-                }
-                else if (j >= 22 && j < 65)
-                {
-                  Console.WriteLine("je bent " + j + " jaar oud! Je bent oud genoeg om te stemmen en je bent een volwassene");
-                }
-                else if (j >= 65)
-                {
-                  Console.WriteLine("u bent " + j + " jaar oud. Zo, dat is oud! U bent oud genoeg om te stemmen en je bent bejaard");
-                }
-                else
-                {
-                  Console.WriteLine("je bent " + j + " jaar oud! Je bent niet oud genoeg om te stemmen");
-                }
             }
             else
             {
@@ -41,5 +27,37 @@ namespace MedaillesOpdrachten
                 Start();
             }
         }
+
+        public void checkAge()
+        {
+            if(age >= 18)
+            {
+                Console.WriteLine("Je bent " + age + " jaar oud! Je bent oud genoeg om te stemmen.");
+                msg();
+            }
+            else
+            {
+                Console.WriteLine("Je bent " + age + " jaar oud! Je bent niet oud genoeg om te stemmen");
+            }
+        }
+
+             public void msg()
+        {
+
+            if (age >= 18 && age < 25)
+            {
+                Console.WriteLine("Je hersenen zijn nog niet volgroeid!");
+            }
+            else if (age >= 25 && age < 45)
+            {
+                Console.WriteLine("Je bent nu volwassenen");
+            }
+            else if (age >= 45)
+            {
+                Console.WriteLine("Zo, dat is oud!");
+            }
+        }
+
+
     }
 }

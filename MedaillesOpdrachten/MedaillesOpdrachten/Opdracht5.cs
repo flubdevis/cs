@@ -8,15 +8,15 @@ namespace MedaillesOpdrachten
 {
     internal class Opdracht5
     {
-        int j;
-        int k;
+        int tafel;
+        int hoever;
         public void Start()
         {
             
             Console.WriteLine("Welke tafel wil je berekenen?");
-            string tafel = Console.ReadLine();
+            string tafelinput = Console.ReadLine();
 
-            if (Int32.TryParse(tafel, out j))
+            if (Int32.TryParse(tafelinput, out tafel))
             {
                 HoeVer();
             }
@@ -33,9 +33,9 @@ namespace MedaillesOpdrachten
         public void HoeVer()
         {
             Console.WriteLine("Hoever wil je rekenen");
-            string hoever = Console.ReadLine();
+            string hoeverinput = Console.ReadLine();
         
-            if (Int32.TryParse(hoever, out k))
+            if (Int32.TryParse(hoeverinput, out hoever))
             {
                 Bereken();
             }
@@ -49,9 +49,9 @@ namespace MedaillesOpdrachten
 
         public void Bereken()
         {
-            for(int i = 1; i <= k; i++)
+            for(int i = 1; i <= hoever; i++)
             {
-                Console.WriteLine(j+" x "+i+" = "+i*j);
+                Console.WriteLine(tafel+" x "+i+" = "+i*tafel);
             }
 
         }

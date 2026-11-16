@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\school\\c#\\MedaillesOpdrachten\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|c:\\school\\c#\\medaillesopdrachten\\medaillesopdrachten\\opdracht5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\opdracht5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|c:\\school\\c#\\medaillesopdrachten\\medaillesopdrachten\\opdracht4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\opdracht4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\opdracht1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\opdracht1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\opdracht3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\opdracht2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\opdracht2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\opdracht1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\opdracht1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|C:\\school\\c#\\MedaillesOpdrachten\\medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|c:\\school\\c#\\medaillesopdrachten\\medaillesopdrachten\\opdracht5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2861D2-7FC6-47E5-8FE3-25E27FA3DCA9}|MedaillesOpdrachten\\MedaillesOpdrachten.csproj|solutionrelative:medaillesopdrachten\\opdracht5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Program.cs",
               "RelativeDocumentMoniker": "MedaillesOpdrachten\\Program.cs",
@@ -64,52 +64,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Opdracht2.cs",
               "DocumentMoniker": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht2.cs",
               "RelativeDocumentMoniker": "MedaillesOpdrachten\\Opdracht2.cs",
               "ToolTip": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht2.cs",
               "RelativeToolTip": "MedaillesOpdrachten\\Opdracht2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T09:44:19.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Opdracht3.cs",
               "DocumentMoniker": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht3.cs",
               "RelativeDocumentMoniker": "MedaillesOpdrachten\\Opdracht3.cs",
               "ToolTip": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht3.cs",
               "RelativeToolTip": "MedaillesOpdrachten\\Opdracht3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAewCsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T09:49:02.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Opdracht4.cs",
               "DocumentMoniker": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht4.cs",
               "RelativeDocumentMoniker": "MedaillesOpdrachten\\Opdracht4.cs",
               "ToolTip": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht4.cs",
               "RelativeToolTip": "MedaillesOpdrachten\\Opdracht4.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T10:42:02.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Opdracht5.cs",
               "DocumentMoniker": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht5.cs",
               "RelativeDocumentMoniker": "MedaillesOpdrachten\\Opdracht5.cs",
               "ToolTip": "C:\\school\\c#\\MedaillesOpdrachten\\MedaillesOpdrachten\\Opdracht5.cs",
               "RelativeToolTip": "MedaillesOpdrachten\\Opdracht5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T12:10:38.529Z",
               "EditorCaption": ""
