@@ -16,6 +16,12 @@ namespace MedaillesOpdrachten
                 "3 - Opdracht 3\n" +
                 "4 - Opdracht 4\n" +
                 "5 - Opdracht 5\n" +
+                //"6 - Opdracht 6\n" +
+                //"7 - Opdracht 7\n" +
+                //"8 - Opdracht 8\n" +
+                //"9 - Opdracht 9\n" +
+                //"10 - Opdracht 10\n" +
+                //"11 - Opdracht 11\n");
                 "6 - Opdracht 6\n");
             string opdracht = Console.ReadLine();
 
@@ -53,6 +59,31 @@ namespace MedaillesOpdrachten
                     Console.Clear();
                     opdracht6.Start();
                     break;
+                /* case "7":
+                     Opdracht7 opdracht7 = new Opdracht7();
+                     Console.Clear();
+                     opdracht7.Start();
+                     break;*/
+                /* case "8":
+                     Opdracht8 opdracht8 = new Opdracht8();
+                     Console.Clear();
+                     opdracht8.Start();
+                     break;*/
+                /* case "9":
+                    Opdracht9 opdracht9 = new Opdracht9();
+                    Console.Clear();
+                    opdracht9.Start();
+                    break;*/
+                /* case "10":
+                    Opdracht10 opdracht10 = new Opdracht10();
+                    Console.Clear();
+                    opdracht10.Start();
+                    break;*/
+                /* case "11":
+                    Opdracht11 opdracht11 = new Opdracht11();
+                    Console.Clear();
+                    opdracht11.Start();
+                    break;*/
 
                 default:
                     Console.WriteLine("Kies een geldige optie!");
