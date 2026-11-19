@@ -15,7 +15,8 @@ namespace MedaillesOpdrachten
                 "2 - Opdracht 2\n" +
                 "3 - Opdracht 3\n" +
                 "4 - Opdracht 4\n" +
-                "5 - Opdracht 5\n");
+                "5 - Opdracht 5\n" +
+                "6 - Opdracht 6\n");
             string opdracht = Console.ReadLine();
 
             switch (opdracht)
@@ -46,6 +47,11 @@ namespace MedaillesOpdrachten
                     Opdracht5 opdracht5 = new Opdracht5();
                     Console.Clear();
                     opdracht5.Start();
+                    break;
+                case "6":
+                    Opdracht6 opdracht6 = new Opdracht6();
+                    Console.Clear();
+                    opdracht6.Start();
                     break;
 
                 default:
