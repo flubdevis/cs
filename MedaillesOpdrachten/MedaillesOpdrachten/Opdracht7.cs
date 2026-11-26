@@ -62,24 +62,16 @@ namespace MedaillesOpdrachten
 
                 for (int i = 0; i < count.Length; i++)
                 {
-                   if(count[i] > highest)
+                    if (count[i] > highest)
                     {
                         highest = count[i];
                         MostThrown = i + 1;
                     }
-                }
-
-                for (int i = 0; i < count.Length; i++)
-                {
                     percentage[i] = (double)count[i] / repeat * 100;
-                }
-
-                for (int i = 0; i < count.Length; i++)
-                {
                     Console.WriteLine((i + 1) + " komt " + count[i] +
-        " keer voor (" + percentage[i] + "%)");
+      " keer voor (" + percentage[i] + "%)");
                 }
-                Console.WriteLine("\nJe meest gegooide getal is "+MostThrown+" (" + highest +" keer!)\n");
+                Console.WriteLine("\nJe meest gegooide getal is " + MostThrown + " (" + highest + " keer!)\n");
             }
         }
     }
